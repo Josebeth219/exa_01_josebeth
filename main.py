@@ -7,7 +7,7 @@ Period.......: 3-2026
 Documents....: Exam_01 - Solucion
 Goals........: Evaluador de expresiones y juego de cartas con pilas
 Professor....: Jorge Ruiz (york)
-Student......:
+Student......: Josebeth Lacayo 604940905
 ================================================================================================="""
 from cls_Stack import cls_Stack
 import Subrutinas
